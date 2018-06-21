@@ -74,11 +74,11 @@ button{
 }
 .main2 .submain21 #startupb{
 	 font-size:20px;
-	 
- }
+	 color:black;
+}
  .main2 .submain22 #incubatorb{
 	 font-size:18px;
-	 
+	 color:black;
  }
 .main2 .submain22{
 	float:right;
